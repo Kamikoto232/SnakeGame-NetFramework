@@ -1,0 +1,12 @@
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Debug\SnakeGameFramework.exe.config
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Debug\SnakeGameFramework.exe
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.exe
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Debug\SnakeGameFramework.exe.manifest
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Debug\SnakeGameFramework.application
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.TrustInfo.xml
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.exe.manifest
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.application
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Debug\SnakeGameFramework.pdb
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Debug\SnakeGameFramework.pdb

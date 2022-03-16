@@ -1,0 +1,7 @@
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Release\SnakeGameFramework.exe.config
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Release\SnakeGameFramework.exe
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\bin\Release\SnakeGameFramework.pdb
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Release\SnakeGameFramework.csproj.AssemblyReference.cache
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Release\SnakeGameFramework.csproj.CoreCompileInputs.cache
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Release\SnakeGameFramework.exe
+C:\Users\Danya\source\repos\SnakeGameF\SnakeGameFramework\obj\Release\SnakeGameFramework.pdb
